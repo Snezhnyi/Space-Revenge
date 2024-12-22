@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - inimigo
+  - parede
+  - Bullet
+  - Wall
+  - PlayerBullet
+  - EnemyBullet
+  - Enemy
+  - Door
+  - FirstRoom
+  - CurrentRoom
+  - SecondRoom
+  - ThirdRoom
+  - FourthRoom
+  - FifthRoom
+  - BarsController
+  - PlayerRocket
+  - RocketExplosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Camada Tiros dos Inimigos
+  - Water
+  - UI
+  - CAMADA INIMIGOS
+  - Camada Tiros do Jogador
+  - Cannon
+  - Scout
+  - Meteor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Thruster
+    uniqueID: 2358291885
+    locked: 0
+  - name: Main
+    uniqueID: 851550983
+    locked: 0
